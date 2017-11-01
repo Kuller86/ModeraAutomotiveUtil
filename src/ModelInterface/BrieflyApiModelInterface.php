@@ -1,6 +1,6 @@
 <?php
 
-namespace Modera\AutomotiveUtil\Interface;
+namespace Modera\AutomotiveUtil\ModelInterface;
 
 /**
  * @author  Alexander Ivanitsa <alexander.ivanitsa@modera.net>
